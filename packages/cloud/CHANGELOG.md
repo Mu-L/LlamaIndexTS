@@ -1,5 +1,14 @@
 # @llamaindex/cloud
 
+## 4.0.0
+
+### Patch Changes
+
+- bf56fc0: chore: bump sdk openapi.json
+- Updated dependencies [21bebfc]
+- Updated dependencies [91a18e7]
+  - @llamaindex/core@0.6.0
+
 ## 3.0.9
 
 ### Patch Changes

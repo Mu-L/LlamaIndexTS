@@ -1,5 +1,14 @@
 # @llamaindex/readers
 
+## 3.0.0
+
+### Patch Changes
+
+- 21bebfc: Expose more content to fix the issue with unavailable documentation links, and adjust the documentation based on the latest code.
+- Updated dependencies [21bebfc]
+- Updated dependencies [91a18e7]
+  - @llamaindex/core@0.6.0
+
 ## 2.0.8
 
 ### Patch Changes
